@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Tips & tricks",
+  title: "The art of snippets",
   description: "Tips and tricks for various software and tech.",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config

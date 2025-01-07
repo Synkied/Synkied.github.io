@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "Tips & tricks"
-  text: "Useful commands or tips/tutorials for your computer development skills"
-  tagline: Learning is living
+  name: "The art of snippets"
+  text: "Tips and tricks for various software and tech."
+  tagline: Live to learn, learn to live (wow much inspirational)
   actions:
     - theme: brand
       text: Tips
