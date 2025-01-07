@@ -13,10 +13,17 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Tips',
+        text: 'Tips and useful info',
         items: [
           { text: 'Introduction', link: '/tips/intro' },
           { text: 'ffprobe', link: '/tips/ffprobe' },
+          {
+            text: 'python',
+            collapsed: false,
+            items: [
+              { text: 'ruff', link: '/tips/python/ruff' },
+            ]
+          },
         ]
       }
     ],
