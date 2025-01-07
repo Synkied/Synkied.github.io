@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Tips & tricks",
-  description: "Useful commands or tips/tutorials for your computer development skills",
+  description: "Tips and tricks for various software and tech.",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
