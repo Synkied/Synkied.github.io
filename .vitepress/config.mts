@@ -16,7 +16,7 @@ export default defineConfig({
         text: 'Tips and useful info',
         items: [
           { text: 'Introduction', link: '/tips/intro' },
-          { text: 'ffprobe', link: '/tips/ffprobe' },
+          { text: 'ffmpeg', link: '/tips/ffmpeg' },
           {
             text: 'python',
             collapsed: false,
